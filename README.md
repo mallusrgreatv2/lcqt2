@@ -18,7 +18,7 @@
   - Hypixel / Other Servers: LCQT does not send any information to the server. As long as you don't abuse any disabled mods (e.g chat macros) you will not be banned.
 
   **Q: What patches are included in the lcqt2 agent?** </br>
-  A: In case this goes out of date you can find them [here](https://github.com/Nilsen84/lcqt2/tree/master/agent/src/main/kotlin/io/github/nilsen84/lcqt/patches).  </br>
+  A: In case this goes out of date you can find them [here](https://github.com/mallusrgreatv2/lcqt2/tree/master/agent/src/main/kotlin/io/github/nilsen84/lcqt/patches).  </br>
     *However:*  </br>
   - Cosmetics Unlocker: Unlocks cosmetics for paid Minecraft users.
   - Cracked Account: Allows Cracked Accounts to be used.
@@ -45,15 +45,15 @@
 
 ## Installation
 #### Windows
-Simply download and run the setup executable [here](https://github.com/Nilsen84/lcqt2/releases/latest). </br>
-If you prefer a portable version, download the [zip](https://github.com/Nilsen84/lcqt2/releases/latest/download/windows-portable.zip).
+Simply download and run the setup executable [here](https://github.com/mallusrgreatv2/lcqt2/releases/latest). </br>
+If you prefer a portable version, download the [zip](https://github.com/mallusrgreatv2/lcqt2/releases/latest/download/windows-portable.zip).
 
 #### Arch Linux
 Use the AUR package: [lunar-client-qt2](https://aur.archlinux.org/packages/lunar-client-qt2).
 
 #### macOS/Linux
 > If you are using Linux, be sure to have the `Lunar Client-X.AppImage` renamed to `lunarclient` in `/usr/bin/`. Alternatively, run lcqt2 with `Lunar Client Qt ~/path/to/lunar/appimage`.
-1. Download the file: [Linux](https://github.com/Nilsen84/lcqt2/releases/latest/download/linux-portable.tar.gz) or [macOS](https://github.com/Nilsen84/lcqt2/releases/latest/download/macos-portable.tar.gz).
+1. Download the file: [Linux](https://github.com/mallusrgreatv2/lcqt2/releases/latest/download/linux-portable.tar.gz) or [macOS](https://github.com/mallusrgreatv2    /lcqt2/releases/latest/download/macos-portable.tar.gz).
 2. Extract it anywhere (`tar -xf os-portable.tar.gz`)
 3. Run the `Lunar Client Qt` executable
 
